@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "infinitehovermodzip.data.unityweb",
+"asmCodeUrl": "infinitehovermodzip.asm.code.unityweb",
+"asmMemoryUrl": "infinitehovermodzip.asm.memory.unityweb",
+"asmFrameworkUrl": "infinitehovermodzip.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
